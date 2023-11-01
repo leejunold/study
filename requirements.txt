@@ -11,3 +11,4 @@ folium
 branca
 geopy
 ssl
+xgboost
