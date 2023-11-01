@@ -9,5 +9,4 @@ streamlit_folium
 folium
 branca
 geopy
-ssl
 xgboost
