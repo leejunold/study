@@ -4,7 +4,6 @@ datetime
 joblib
 tensorflow
 haversine
-urllib
 streamlit
 streamlit_folium
 folium
